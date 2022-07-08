@@ -15,6 +15,7 @@ int main() {
             while(p.get_card_amount() < 6) {
                 p.add_card(deck.give());
             }
+
         }
     }
 
